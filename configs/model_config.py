@@ -172,8 +172,8 @@ MODEL_PATH = {
         "chatglm2-6b-32k": "THUDM/chatglm2-6b-32k",
         #"chatglm3-6b": "THUDM/chatglm3-6b",
         #"chatglm3-6b": "/home/xiaoyukou/ChatGLM3_Law/ckpts/chatglm3-6b/",
-        "chatglm3-6b": "/home/xiaoyukou/ChatGLM3_Law/ckpts/chatglm3-6b/",
-        "chatglm3-6b-32k": "THUDM/chatglm3_law",
+        "chatglm3-6b": "/home/xiaoyukou/ChatGLM3_Law/ckpts/chatglm3_law/",
+        "chatglm3-6b-32k": "THUDM/chatglm3-6b-32k",
 
         "Orion-14B-Chat": "OrionStarAI/Orion-14B-Chat",
         "Orion-14B-Chat-Plugin": "OrionStarAI/Orion-14B-Chat-Plugin",
